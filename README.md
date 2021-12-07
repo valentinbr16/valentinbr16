@@ -9,7 +9,7 @@
      
 - :toolbox: What tools do I use ?
      
-     I am using Visual Studio Code to write my code. I learned some languages like HTML, CSS, Python, PHP or JavaScript, and some frameworks as Symfony, React native or ReactJS, for which I have a preference...
+     I am using Visual Studio Code to write my code. I learned some languages like HTML, CSS, Python, PHP or JavaScript, and some frameworks such as Symfony, React native or ReactJS, for which I have a preference...
 
 - 📫 How to reach me ?
      
